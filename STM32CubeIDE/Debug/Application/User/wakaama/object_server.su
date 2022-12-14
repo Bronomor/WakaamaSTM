@@ -1,0 +1,10 @@
+../Application/User/wakaama/object_server.c:148:16:prv_server_discover	48	static
+../Application/User/wakaama/object_server.c:357:16:prv_server_execute	8	static
+../Application/User/wakaama/object_server.c:388:16:prv_server_delete	16	static
+../Application/User/wakaama/object_server.c:211:16:prv_set_int_value	16	static
+../Application/User/wakaama/object_server.c:236:16:prv_server_write	48	static
+../Application/User/wakaama/object_server.c:405:16:prv_server_create	32	static
+../Application/User/wakaama/object_server.c:63:16:prv_get_value	8	static
+../Application/User/wakaama/object_server.c:95:16:prv_server_read	32	static
+../Application/User/wakaama/object_server.c:435:18:get_server_object	16	static
+../Application/User/wakaama/object_server.c:476:6:free_server_object	8	static

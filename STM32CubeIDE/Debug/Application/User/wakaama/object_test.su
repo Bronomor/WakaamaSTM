@@ -1,0 +1,10 @@
+../Application/User/wakaama/object_test.c:223:16:prv_discover	16	static
+../Application/User/wakaama/object_test.c:336:16:prv_delete	16	static
+../Application/User/wakaama/object_test.c:89:13:prv_output_buffer	40	static
+../Application/User/wakaama/object_test.c:384:16:prv_exec	32	static
+../Application/User/wakaama/object_test.c:264:16:prv_write	48	static
+../Application/User/wakaama/object_test.c:353:16:prv_create	32	static
+../Application/User/wakaama/object_test.c:160:16:prv_read	24	static
+../Application/User/wakaama/object_test.c:144:16:lwm2m_list_print_elems	0	static
+../Application/User/wakaama/object_test.c:416:18:get_test_object	32	static
+../Application/User/wakaama/object_test.c:462:6:free_test_object	8	static

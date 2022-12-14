@@ -1,0 +1,4 @@
+../Application/User/wakaama/core/discover.c:37:29:prv_findAttributes	8	static
+../Application/User/wakaama/core/discover.c:64:12:prv_serializeAttributes	40	static
+../Application/User/wakaama/core/discover.c:162:12:prv_serializeLinkData	104	static
+../Application/User/wakaama/core/discover.c:296:5:discover_serialize	1176	static

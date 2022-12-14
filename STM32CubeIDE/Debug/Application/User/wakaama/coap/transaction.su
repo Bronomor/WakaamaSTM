@@ -1,0 +1,9 @@
+../Application/User/wakaama/coap/transaction.c:118:12:prv_checkFinished	16	static
+../Application/User/wakaama/coap/transaction.c:149:23:transaction_new	40	static
+../Application/User/wakaama/coap/transaction.c:256:6:transaction_free	8	static
+../Application/User/wakaama/coap/transaction.c:279:6:transaction_remove	16	static
+../Application/User/wakaama/coap/transaction.c:287:6:transaction_handleResponse	40	static
+../Application/User/wakaama/coap/transaction.c:368:5:transaction_send	24	static
+../Application/User/wakaama/coap/transaction.c:454:6:transaction_step	32	static
+../Application/User/wakaama/coap/transaction.c:500:6:transaction_set_payload	24	static
+../Application/User/wakaama/coap/transaction.c:520:6:transaction_free_userData	8	static

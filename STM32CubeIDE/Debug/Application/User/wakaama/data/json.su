@@ -1,0 +1,7 @@
+../Application/User/wakaama/data/json.c:93:12:prv_parseItem	48	static
+../Application/User/wakaama/data/json.c:258:13:prv_convertValue	16	static
+../Application/User/wakaama/data/json.c:316:12:prv_convertRecord	72	static
+../Application/User/wakaama/data/json.c:753:12:prv_serializeValue	32	static
+../Application/User/wakaama/data/json.c:903:12:prv_serializeData	64	static
+../Application/User/wakaama/data/json.c:481:5:json_parse	88	static
+../Application/User/wakaama/data/json.c:975:5:json_serialize	1104	static

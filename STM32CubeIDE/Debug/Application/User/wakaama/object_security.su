@@ -1,0 +1,5 @@
+../Application/User/wakaama/object_security.c:61:16:prv_get_value	16	static
+../Application/User/wakaama/object_security.c:143:16:prv_security_read	48	static
+../Application/User/wakaama/object_security.c:202:18:get_security_object	16	static
+../Application/User/wakaama/object_security.c:239:6:free_security_object	16	static
+../Application/User/wakaama/object_security.c:254:8:get_server_uri	8	static

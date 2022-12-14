@@ -1,0 +1,5 @@
+../Application/User/wakaama/core/uri.c:59:12:prv_parseNumber	8	static
+../Application/User/wakaama/core/uri.c:88:5:uri_getNumber	16	static
+../Application/User/wakaama/core/uri.c:97:22:uri_decode	24	static
+../Application/User/wakaama/core/uri.c:222:5:lwm2m_stringToUri	24	static
+../Application/User/wakaama/core/uri.c:291:5:uri_toString	32	static

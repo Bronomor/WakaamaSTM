@@ -1,0 +1,10 @@
+../Application/User/wakaama/missing_references/refs.c:22:8:lwm2m_malloc	8	static
+../Application/User/wakaama/missing_references/refs.c:27:6:lwm2m_free	8	static
+../Application/User/wakaama/missing_references/refs.c:32:8:lwm2m_strdup	24	static
+../Application/User/wakaama/missing_references/refs.c:49:5:lwm2m_strncmp	8	static
+../Application/User/wakaama/missing_references/refs.c:56:8:lwm2m_gettime	8	static
+../Application/User/wakaama/missing_references/refs.c:87:6:lwm2m_close_connection	8	static
+../Application/User/wakaama/missing_references/refs.c:123:5:connection_send	0	static
+../Application/User/wakaama/missing_references/refs.c:171:9:lwm2m_buffer_send	8	static
+../Application/User/wakaama/missing_references/refs.c:195:6:lwm2m_session_is_equal	0	static
+../Application/User/wakaama/missing_references/refs.c:211:8:lwm2m_connect_server	0	static

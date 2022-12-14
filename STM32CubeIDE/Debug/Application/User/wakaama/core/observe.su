@@ -1,0 +1,11 @@
+../Application/User/wakaama/core/observe.c:58:27:prv_findObserved	0	static
+../Application/User/wakaama/core/observe.c:79:13:prv_unlinkObserved	0	static
+../Application/User/wakaama/core/observe.c:103:26:prv_findWatcher	0	static
+../Application/User/wakaama/core/observe.c:118:26:prv_getWatcher	24	static
+../Application/User/wakaama/core/observe.c:247:6:observe_cancel	32	static
+../Application/User/wakaama/core/observe.c:162:9:observe_handleRequest	32	static
+../Application/User/wakaama/core/observe.c:298:6:observe_clear	24	static
+../Application/User/wakaama/core/observe.c:335:9:observe_setParameters	32	static
+../Application/User/wakaama/core/observe.c:434:20:observe_findByUri	0	static
+../Application/User/wakaama/core/observe.c:470:6:lwm2m_resource_value_changed	0	static
+../Application/User/wakaama/core/observe.c:516:6:observe_step	288	static

@@ -1,0 +1,14 @@
+../Application/User/wakaama/core/liblwm2m.c:126:13:prv_deleteBootstrapServer	8	static
+../Application/User/wakaama/core/liblwm2m.c:137:13:prv_deleteBootstrapServerList	8	static
+../Application/User/wakaama/core/liblwm2m.c:92:13:prv_deleteServer	8	static
+../Application/User/wakaama/core/liblwm2m.c:115:13:prv_deleteServerList	8	static
+../Application/User/wakaama/core/liblwm2m.c:148:13:prv_deleteObservedList	16	static
+../Application/User/wakaama/core/liblwm2m.c:219:12:prv_refreshServerList	16	static
+../Application/User/wakaama/core/liblwm2m.c:62:19:lwm2m_init	16	static
+../Application/User/wakaama/core/liblwm2m.c:80:6:lwm2m_deregister	16	static
+../Application/User/wakaama/core/liblwm2m.c:169:6:prv_deleteTransactionList	8	static
+../Application/User/wakaama/core/liblwm2m.c:181:6:lwm2m_close	8	static
+../Application/User/wakaama/core/liblwm2m.c:263:5:lwm2m_configure	32	static
+../Application/User/wakaama/core/liblwm2m.c:338:5:lwm2m_add_object	16	static
+../Application/User/wakaama/core/liblwm2m.c:358:5:lwm2m_remove_object	16	static
+../Application/User/wakaama/core/liblwm2m.c:379:5:lwm2m_step	32	static

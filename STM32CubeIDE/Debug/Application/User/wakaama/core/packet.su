@@ -1,0 +1,15 @@
+../Application/User/wakaama/core/packet.c:110:13:validate_block_size	24	static
+../Application/User/wakaama/core/packet.c:141:16:handle_request	40	static
+../Application/User/wakaama/core/packet.c:131:13:handle_reset	8	static
+../Application/User/wakaama/core/packet.c:225:30:prv_get_transaction	24	static
+../Application/User/wakaama/core/packet.c:244:30:prv_create_next_block_transaction	40	dynamic
+../Application/User/wakaama/core/packet.c:344:12:prv_send_new_block1	32	static
+../Application/User/wakaama/core/packet.c:364:12:prv_send_next_block1	16	static
+../Application/User/wakaama/core/packet.c:406:12:prv_retry_block1	24	static
+../Application/User/wakaama/core/packet.c:121:6:lwm2m_set_coap_block_size	8	static
+../Application/User/wakaama/core/packet.c:129:10:lwm2m_get_coap_block_size	0	static
+../Application/User/wakaama/core/packet.c:432:12:prv_send_get_block2	40	static
+../Application/User/wakaama/core/packet.c:467:12:prv_send_get_next_block2	16	static
+../Application/User/wakaama/core/packet.c:390:12:prv_change_to_block1	24	static
+../Application/User/wakaama/core/packet.c:864:9:message_send	24	static
+../Application/User/wakaama/core/packet.c:483:6:lwm2m_handle_packet	88	static
